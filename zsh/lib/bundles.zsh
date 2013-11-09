@@ -8,7 +8,6 @@ antigen bundles <<EOBUNDLES
   zsh-users/zsh-syntax-highlighting
   bower
   brew
-  bundler
   capistrano
   gem
   heroku
