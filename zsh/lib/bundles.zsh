@@ -6,15 +6,8 @@ setopt promptsubst
 antigen bundles <<EOBUNDLES
 
   zsh-users/zsh-syntax-highlighting
-  bower
   brew
-  capistrano
   gem
-  heroku
-  knife
-  npm
-  pip
-  vagrant
 
 EOBUNDLES
 antigen apply

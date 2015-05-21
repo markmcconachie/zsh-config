@@ -7,8 +7,7 @@ install:
 	chsh -s /bin/zsh
 
 update-antigen:
-	git submodule init
-	git submodule update
+	git submodule update --init
 
 clean:
 	rm -rf ~/.zsh*
